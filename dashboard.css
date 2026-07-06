@@ -1,0 +1,9 @@
+.dashboard {
+  border: 1px solid #ddd;
+  padding: 20px;
+  background-color: #eef;
+}
+.dashboard h2 {
+  color: darkgreen;
+}
+
