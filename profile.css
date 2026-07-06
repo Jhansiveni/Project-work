@@ -1,0 +1,13 @@
+.profile-card {
+  border: 1px solid #ccc;
+  padding: 15px;
+  background-color: #eef;
+  width: 300px;
+}
+.profile-card h3 {
+  color: darkblue;
+}
+.profile-card ul {
+  list-style-type: square;
+}
+
